@@ -5,6 +5,8 @@ VisualStudioVersion = 17.3.32819.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MAUI.AndroidBinding.QYWX", "MAUI.AndroidBinding.QYWX.csproj", "{006D3654-A88D-4AC5-B8E8-E3B1C1B625C9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MAUI.IOSBinding.QYWX", "..\MAUI.IOSBinding.QYWX\MAUI.IOSBinding.QYWX.csproj", "{8142713D-26FF-47E2-A052-E0991B8479E5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{006D3654-A88D-4AC5-B8E8-E3B1C1B625C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{006D3654-A88D-4AC5-B8E8-E3B1C1B625C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{006D3654-A88D-4AC5-B8E8-E3B1C1B625C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8142713D-26FF-47E2-A052-E0991B8479E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8142713D-26FF-47E2-A052-E0991B8479E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8142713D-26FF-47E2-A052-E0991B8479E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8142713D-26FF-47E2-A052-E0991B8479E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
