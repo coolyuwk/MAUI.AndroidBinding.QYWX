@@ -17,3 +17,31 @@ WWAuthMessage.Req req = new WWAuthMessage.Req()
 WWAPIEventHandler wWAPIEventHandler = new WWAPIEventHandler(func);
 api.SendMessage(req, wWAPIEventHandler);
 ```
+# MAUI.IOSBinding.QYWX
+
+Info.plise
+```
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string>main</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>schema</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string>main</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>Bundle ID</string>
+			</array>
+		</dict>
+	</array>
+```
